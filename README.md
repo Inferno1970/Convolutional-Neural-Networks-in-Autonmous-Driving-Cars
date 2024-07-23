@@ -33,7 +33,7 @@ To run this project, you need to have Python and the required packages installed
    
 2. Create a virtual environment and activate it:
 
-   ```bash
+  ```bash
   python -m venv venv
   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
   
