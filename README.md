@@ -28,7 +28,7 @@ To run this project, you need to have Python and the required packages installed
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fcn8s-semantic-segmentation.git
+   git clone https://github.com/SepNem32bit/fcn8s-semantic-segmentation.git
    cd fcn8s-semantic-segmentation
    ```
   
