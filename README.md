@@ -3,6 +3,7 @@
 ## Project Overview
 
 This project involves training and evaluating an FCN8s (Fully Convolutional Network) model for semantic segmentation using the CamVid dataset. The goal is to segment images into different classes such as roads, vehicles, pedestrians, etc. The model is based on a VGG16 backbone and is evaluated using metrics such as pixel accuracy and Mean Intersection over Union (Mean IoU).
+![FCN](FCN.png)
 
 ## Features
 
