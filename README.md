@@ -29,7 +29,8 @@ To run this project, you need to have Python and the required packages installed
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/fcn8s-semantic-segmentation.git
-   cd fcn8s-semantic-segmentation```
+   cd fcn8s-semantic-segmentation
+   ```
   
 2. Create a virtual environment and activate it:
   ```bash
