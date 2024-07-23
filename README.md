@@ -30,13 +30,13 @@ To run this project, you need to have Python and the required packages installed
    ```bash
    git clone https://github.com/yourusername/fcn8s-semantic-segmentation.git
    cd fcn8s-semantic-segmentation
-   
-Create a virtual environment and activate it:
+    
+2. Create a virtual environment and activate it:
   ```bash
   python -m venv venv
   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-Install the required packages:
+3. Install the required packages:
   ```bash
   pip install -r requirements.txt
   Download the CamVid dataset and place it in the appropriate directory (details below).
