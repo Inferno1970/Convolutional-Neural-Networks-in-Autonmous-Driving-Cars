@@ -32,6 +32,7 @@ To run this project, you need to have Python and the required packages installed
    cd fcn8s-semantic-segmentation
    
 2. Create a virtual environment and activate it:
+
    ```bash
   python -m venv venv
   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
