@@ -36,11 +36,13 @@ To run this project, you need to have Python and the required packages installed
   ```bash
   python -m venv venv
   source venv/bin/activate  # On Windows use venv\Scripts\activate
+```
 
 3. Install the required packages:
   ```bash
   pip install -r requirements.txt
   Download the CamVid dataset and place it in the appropriate directory (details below).
+```
 
 ## Usage
 Open the Jupyter Notebook file FCN8s_Semantic_Segmentation.ipynb and follow the instructions provided in the notebook. Below is a summary of the key steps.
